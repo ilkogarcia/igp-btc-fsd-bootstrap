@@ -14,8 +14,12 @@ body {
     border: none;
 }
 
-.alto-fijo {
-    height: 95px;
+.alto-10 {
+    height: 10px;
+}
+
+.alto-100 {
+    height: 100px;
 }
 
 .ancho-completo {
@@ -23,21 +27,14 @@ body {
 }
 
 .form-top-left {
-    background-color: white;
     padding: 10px 20px 0px 20px;
-    border-top-left-radius: 5px;
-    /* color: #b5b5b5; */
 }
 
 .form-top-right {
-    background-color: white;
     padding: 0px 20px 10px 20px;
-    border-top-right-radius: 5px;
-    color: #e0e0e0;
 }
 
 .form-bottom {
-    background-color: #e0e0e0;
     padding: 10px 20px 10px 20px;
 }
 
